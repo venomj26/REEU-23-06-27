@@ -1,0 +1,1485 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service
+</origin>
+        <pubdate>20220902</pubdate>
+        <title>
+Soil Survey Geographic (SSURGO) database for
+Tippecanoe County, Indiana
+</title>
+        <pubinfo>
+          <pubplace>Fort Worth, Texas</pubplace>
+          <publish>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service
+</publish>
+        </pubinfo>
+        <othercit>in157</othercit>
+        <onlink>https://websoilsurvey.sc.egov.usda.gov/</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>
+This data set is a digital soil survey and generally is the most
+detailed level of soil geographic data developed by the National
+Cooperative Soil Survey. The information was prepared by digitizing
+maps, by compiling information onto a planimetric correct base
+and digitizing, or by revising digitized maps using remotely
+sensed and other information.
+
+This data set consists of georeferenced digital map data and
+computerized attribute data. The map data are in a soil survey area
+extent format and include a detailed, field verified inventory
+of soils and miscellaneous areas that normally occur in a repeatable
+pattern on the landscape and that can be cartographically shown at
+the scale mapped. A special soil features layer (point and line
+features) is optional. This layer displays the location of features
+too small to delineate at the mapping scale, but they are large
+enough and contrasting enough to significantly influence use and
+management. The soil map units are linked to attributes in the
+National Soil Information System relational database, which gives
+the proportionate extent of the component soils and their properties.
+</abstract>
+      <purpose>
+SSURGO depicts information about the kinds and distribution of
+soils on the landscape. The soil map and data used in the SSURGO
+product were prepared by soil scientists as part of the National
+Cooperative Soil Survey.
+</purpose>
+      <supplinf>
+Digital versions of hydrography, cultural features, and other
+associated layers that are not part of the SSURGO data set may be
+available from the primary organization listed in the Point of
+Contact.
+</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>19980727</begdate>
+          <enddate>20220902</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-87.095</westbc>
+        <eastbc>-86.695</eastbc>
+        <northbc>40.563</northbc>
+        <southbc>40.214</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>soil survey</themekey>
+        <themekey>soils</themekey>
+        <themekey>Soil Survey Geographic</themekey>
+        <themekey>SSURGO</themekey>
+      </theme>
+      <place>
+        <placekt>USGS Geographic Names Information System (GNIS)</placekt>
+        <placekey>Indiana</placekey>
+        <placekey>Tippecanoe County</placekey>
+        <placekey>Round Grove NW Quadrangle</placekey>
+        <placekey>Round Grove NE Quadrangle</placekey>
+        <placekey>Round Grove SW Quadrangle</placekey>
+        <placekey>Round Grove SE Quadrangle</placekey>
+        <placekey>Brookston SW SW Quadrangle</placekey>
+        <placekey>Brookston SW SE Quadrangle</placekey>
+        <placekey>Brookston SW Quadrangle</placekey>
+        <placekey>Brookston SE Quadrangle</placekey>
+        <placekey>Delphi SW Quadrangle</placekey>
+        <placekey>Otterbein NW Quadrangle</placekey>
+        <placekey>Otterbein NE Quadrangle</placekey>
+        <placekey>Otterbein SW Quadrangle</placekey>
+        <placekey>Otterbein SE Quadrangle</placekey>
+        <placekey>Lafayette West NW Quadrangle</placekey>
+        <placekey>Lafayette West NE Quadrangle</placekey>
+        <placekey>Lafayette West SW Quadrangle</placekey>
+        <placekey>Lafayette West SE Quadrangle</placekey>
+        <placekey>Lafayette East NW Quadrangle</placekey>
+        <placekey>Lafayette East NE Quadrangle</placekey>
+        <placekey>Lafayette East SW Quadrangle</placekey>
+        <placekey>Lafayette East SE Quadrangle</placekey>
+        <placekey>Pyrmont NW Quadrangle</placekey>
+        <placekey>Pyrmont SW Quadrangle</placekey>
+        <placekey>WestPoint NW Quadrangle</placekey>
+        <placekey>WestPoint NE Quadrangle</placekey>
+        <placekey>WestPoint SW Quadrangle</placekey>
+        <placekey>WestPoint SE Quadrangle</placekey>
+        <placekey>Romney NW Quadrangle</placekey>
+        <placekey>Romney NE Quadrangle</placekey>
+        <placekey>Romney SW Quadrangle</placekey>
+        <placekey>Romney SE Quadrangle</placekey>
+        <placekey>Stockwell NW Quadrangle</placekey>
+        <placekey>Stockwell NE Quadrangle</placekey>
+        <placekey>Stockwell SW Quadrangle</placekey>
+        <placekey>Stockwell SE Quadrangle</placekey>
+        <placekey>Mulberry NW Quadrangle</placekey>
+        <placekey>Mulberry SW Quadrangle</placekey>
+        <placekey>Wingate NW Quadrangle</placekey>
+        <placekey>Wingate NE Quadrangle</placekey>
+        <placekey>Linden NW Quadrangle</placekey>
+        <placekey>Linden NE Quadrangle</placekey>
+        <placekey>Kirkpatrick NW Quadrangle</placekey>
+        <placekey>Kirkpatrick NE Quadrangle</placekey>
+        <placekey>Colfax NW Quadrangle</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>
+The U.S. Department of Agriculture, Natural Resources Conservation
+Service, should be acknowledged as the data source in products
+derived from these data.
+
+This data set is not designed for use as a primary regulatory tool
+in permitting or citing decisions, but may be used as a reference
+source. This is public information and may be interpreted by
+organizations, agencies, units of government, or others based on
+needs; however, they are responsible for the appropriate
+application. Federal, State, or local regulatory bodies are not to
+reassign to the Natural Resources Conservation Service any
+authority for the decisions that they make. The Natural Resources
+Conservation Service will not perform any evaluations of these maps
+for purposes related solely to State or local regulatory programs.
+
+Photographic or digital enlargement of these maps to scales greater
+than at which they were originally mapped can cause misinterpretation
+of the data. If enlarged, maps do not show the small areas of
+contrasting soils that could have been shown at a larger scale. The
+depicted soil boundaries, interpretations, and analysis derived from
+them do not eliminate the need for onsite sampling, testing, and
+detailed study of specific sites for intensive uses. Thus, these data
+and their interpretations are intended for planning purposes only.
+Digital data files are periodically updated. Files are dated, and
+users are responsible for obtaining the latest version of the data.
+</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Department of Agriculture, Natural Resources Conservation Service</cntorg>
+        </cntorgp>
+        <cntpos>State Soil Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>USDA - Natural Resources Conservation Service</address>
+          <address>Indiana State Office</address>
+          <address>6013 Lakeside Blvd.</address>
+          <city>Indianapolis</city>
+          <state>IN</state>
+          <postal>46278-2933</postal>
+        </cntaddr>
+        <cntvoice>317-295-5875</cntvoice>
+        <cnttdd>800-877-8339</cnttdd>
+        <cntfax>855-458-8767</cntfax>
+        <cntemail>rick.neilson@usda.gov</cntemail>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>
+The attribute accuracy is tested by manual
+comparison of the source with hard copy plots and/or symbolized
+display of the map data on an interactive computer graphic system.
+Selected attributes that cannot be visually verified on plots or
+on screen are interactively queried and verified on screen. In
+addition, the attributes are tested against a master set of valid
+attributes. All attribute data conform to the attribute codes in
+the signed classification and correlation document and amendment(s).
+</attraccr>
+    </attracc>
+    <logic>
+Certain node/geometry and topology GT- polygon/chain relationships
+are collected or generated to satisfy topological requirements
+(the GT-polygon corresponds to the soil delineation). Some of these
+requirements include: chains must begin and end at nodes, chains
+must connect to each other at nodes, chains do not extend through
+nodes, left and right GT-polygons are defined for each chain
+element and are consistent throughout, and the chains representing
+the limits of the file are free of gaps. The tests of logical
+consistency are performed using vendor software. All internal
+polygons are tested for closure with vendor software and are checked
+on hard copy plots. All data are checked for common soil lines (i.e.,
+adjacent polygons with the same label). Edge locations generally do
+not deviate from centerline to centerline by more than 0.01 inch.
+
+The Soil Survey of Tippecanoe County, Indiana is edge matched to the
+adjacent SSURGO certified Soil Surveys of Fountain County, Warren County,
+Benton County, White County, Clinton County, Montgomery County,
+and Carroll County, Indiana.  The feature edges in Tippecanoe County
+are joined to the features edges in Fountain County.  The labels of
+Tippecanoe County do not match the labels in the adjacent counties.
+The soil survey area boundaries match.
+</logic>
+    <complete>
+A map unit is a collection of areas defined and named in terms of
+their soil components or miscellaneous areas or both. Each map
+unit differs in some respect from all others in a survey area and
+each map unit has a symbol that uniquely identifies the map unit
+on a soil map. Each individual area, point, or line so identified
+on the map is a delineation.
+
+Soil Scientists identify small areas of soils or miscellaneous areas
+that have properties and behavior significantly different than the
+named soils in the surrounding map unit. These minor components
+may be indicated as special features. If they have a minimal effect
+on use and management, or could not be precisely located, they may
+not be indicated on the map.
+
+A map unit has specified kinds of soils or miscellaneous areas
+(map unit components), each with a designated range in
+proportionate extent. Map units include one or more kinds of soil
+or miscellaneous area. Miscellaneous areas are areas that have little
+or no recognizable soil.
+
+Specific National Cooperative Soil Survey standards and procedures
+were used in the classification of soils, design and name of map
+units, and location of special soil features. These standards are
+outlined in Agricultural Handbook 18, Soil Survey Manual, 1993,
+USDA, NRCS; Agricultural Handbook 436, Soil Taxonomy, 1995,
+USDA, NRCS; and all Amendments; Keys to Soil Taxonomy,
+(current issue) USDA, NRCS; National Soil Survey
+Handbook, title 430-VI,(current issue) USDA, NRCS.
+
+The actual composition and interpretive purity of the map unit
+delineations were based on data collected by scientists during
+the course of preparing the soil maps. Adherence to National
+Cooperative Soil Survey standards and procedures is based on
+peer review, quality control, and quality assurance. Quality
+control is outlined in the memorandum of understanding for the
+soil survey area and in documents that reside with the Natural
+Resources Conservation Service state soil scientist. Four kinds
+of map units are used in soil surveys: consociations, complexes,
+associations, and undifferentiated groups.
+
+Consociations - Consociations are named for the dominant soil.
+In a consociation, delineated areas use a single name from the
+dominant component in the map unit. Dissimilar components are
+minor in extent. The soil component in a consociation may be
+identified at any taxonomic level. Soil series is the lowest
+taxonomic level. A consociation that is named as a miscellaneous
+area is dominantly that kind of area and minor components do not
+significantly affect the use of the map unit. The total amount of
+dissimilar inclusions of other components in a map unit generally
+does not exceed about 15 percent if limiting and 25 percent if
+nonlimiting. A single component of a dissimilar limiting inclusion
+generally does not exceed 10 percent if very contrasting.
+
+Complexes and associations - Complexes and associations consist
+of two or more  dissimilar components that occur in a regularly
+repeating pattern. The total amount of other dissimilar components
+is minor extent. The following arbitrary rule determines whether
+complex or association is used in the name. The major components
+of an association can be separated at the scale of mapping. In
+either case, because the major components are sufficiently different
+in morphology or behavior, the map unit cannot be called a
+consociation. In each delineation of a complex or an association,
+each major component is normally present though their proportions
+may vary appreciably from one delineation to another. The total
+amount of inclusions in a map unit that are dissimilar to any of
+the major components does not exceed 15 percent if limiting and
+25 percent if nonlimiting. A single kind of dissimilar limiting
+inclusion usually does not exceed 10 percent.
+
+Undifferentiated groups - Undifferentiated groups consist of two
+or more components that are not consistently associated
+geographically and, therefore, do not always occur together in
+the same map delineation. These components are included in the
+same named map unit because their use and management are the same
+or very similar for common uses. Generally they are grouped together
+because some common feature, such as steepness, stoniness, or
+flooding, determines their use and management. If two or more
+additional map units would serve no useful purpose, they may be
+included in the same unit. Each delineation has at least one of the
+major components, and some may have all of them. The same principles
+regarding the proportion of minor components that apply to
+consociations also apply to undifferentiated groups. The same
+principles regarding proportion of inclusion apply to
+undifferentiated groups as to consociations.
+
+Minimum documentation consists of three complete soil profile
+descriptions that are collected for each soil added to the legend,
+one additional per 3,000 acres mapped; three 10 observation
+transects for each map unit, one additional 10 point transect per
+3,000 acres.
+
+A defined standard or level of confidence in the interpretive
+purity of the map unit delineations is attained by adjusting the
+kind and intensity of field investigations. Field investigations
+and data collection are carried out in sufficient detail to name
+map units and to identify accurately and consistently areas of
+about 3 acres.
+</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>
+The accuracy of these digital data is based upon their
+compilation to base maps that meet National Map
+Accuracy Standards at a scale of 1 inch equals 1,000
+feet. The difference in positional accuracy between the
+soil boundaries and special soil features locations in the
+field and their digitized map locations is unknown. The
+locational accuracy of soil delineations on the ground varies
+with the transition between map units.
+
+For example, on long gently sloping landscapes the transition
+occurs gradually over many feet. Where landscapes change
+abruptly from steep to level, the transition will be very
+narrow. Soil delineation boundaries and special soil features
+generally were digitized within 0.01 inch of their locations on
+the digitizing source. The digital map elements are edge matched
+between data sets. The data along each quadrangle edge are
+matched against the data for the adjacent quadrangle. Edge
+locations generally do not deviate from centerline to centerline
+by more than 0.01 inch.
+</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>1998</pubdate>
+            <title>Soil Survey of Tippecanoe County, Indiana</title>
+            <geoform>atlas</geoform>
+            <pubinfo>
+              <pubplace>Washington D.C.</pubplace>
+              <publish>U.S. Government Printing Office</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>15840</srcscale>
+        <typesrc>paper</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NRCS1</srccitea>
+        <srccontr>basic reference about soils and landscapes</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>1998</pubdate>
+            <title>publication annotation overlays</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Washington D.C.</pubplace>
+              <publish>U.S. Government Printing Office</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>15840</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date of soil survey</srccurr>
+        </srctime>
+        <srccitea>NRCS2</srccitea>
+        <srccontr>
+final publication negatives used to develop
+ratio film positives
+</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>unpublished material</pubdate>
+            <title>ratio film positives of publication annotation overlays</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1998</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date of soil survey</srccurr>
+        </srctime>
+        <srccitea>NRCS3</srccitea>
+        <srccontr>
+information for soil map unit delineations,
+special soil feature locations, and data on
+soil properties used in compilation
+</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Geological Survey</origin>
+            <pubdate>1992</pubdate>
+            <title>3.75 minute orthophotographic quadrangles</title>
+            <geoform>remote sensing image</geoform>
+            <pubinfo>
+              <pubplace>Menlo Park, California</pubplace>
+              <publish>U.S. Geological Survey</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1992</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>imagery source date</srccurr>
+        </srctime>
+        <srccitea>USGS1</srccitea>
+        <srccontr>base materials for compilation</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>unpublished material</pubdate>
+            <title>annotated overlays</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>stable-base material</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1997</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>dates of compilation</srccurr>
+        </srctime>
+        <srccitea>NRCS4</srccitea>
+        <srccontr>scanning and digitizing source</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>1998</pubdate>
+            <title>SSURGO data of Tippecanoe County, Indiana</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NRCS5</srccitea>
+        <srccontr>SSURGO data for revision of tabular data</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>19990930</pubdate>
+            <title>
+Soil Survey Geographic (SSURGO) database for
+Tippecanoe County, Indiana
+</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Ft. Worth, Texas</pubplace>
+              <publish>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>19990930</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NRCS6</srccitea>
+        <srccontr>
+certified SSURGO product used as source for
+digital revision
+</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>2004</pubdate>
+            <title>Digital County Boundary Map for Indiana</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Ft. Worth, Texas</pubplace>
+              <publish>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>12000</srcscale>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2004</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>dated added to Soil Data Warehouse</srccurr>
+        </srctime>
+        <srccitea>NRCS7</srccitea>
+        <srccontr>source for county boundary</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>2004</pubdate>
+            <title>
+National Soil Information System (NASIS) database for
+Tippecanoe County, Indiana
+</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Fort Collins, Colorado</pubplace>
+              <publish>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service, Information Technology Center
+</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2004</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>export certification date</srccurr>
+        </srctime>
+        <srccitea>NRCS8</srccitea>
+        <srccontr>
+tabular soil property data linked to
+spatial soil data
+</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>2005</pubdate>
+            <title>National Soil Information System (NASIS) data base</title>
+            <geoform>tabular digital data</geoform>
+            <pubinfo>
+              <pubplace>Fort Collins, Colorado</pubplace>
+              <publish>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>database</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2005</begdate>
+              <enddate>2005</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>NASIS</srccitea>
+        <srccontr>attribute (tabular) information</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>State of Indiana</origin>
+            <pubdate>2005</pubdate>
+            <title>
+2005 High Resolution Orthophotography of Indiana
+(MrSID)
+</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Indianapolis, IN</pubplace>
+              <publish>Indiana Geographic Information Council, Inc.</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2005</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>date of imagery</srccurr>
+        </srctime>
+        <srccitea>SOI1</srccitea>
+        <srccontr>
+imagery used for verification of gravel pits
+and water
+</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service
+</origin>
+            <pubdate>2007</pubdate>
+            <title>2005 Color Infrared Orthophoto Mosaic (MrSID)</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Ft. Worth, Texas</pubplace>
+              <publish>
+U.S. Department of Agriculture, Natural
+Resources Conservation Service, National Cartography &amp;
+Geospatial Center
+</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2005</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>date of imagery</srccurr>
+        </srctime>
+        <srccitea>NRCS9</srccitea>
+        <srccontr>imagery used for verification of water</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture, Farm Service
+Agency, Aerial Photography Field Office, Indiana
+Information Technology Oversight
+</origin>
+            <pubdate>2008</pubdate>
+            <title>
+National Agriculture Imagery Program (NAIP) full
+county orthophoto mosaic in MrSID format
+</title>
+            <geoform>remote-sensing image</geoform>
+            <pubinfo>
+              <pubplace>Salt Lake City, Utah</pubplace>
+              <publish>Aerial Photography Field Office</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2008</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>date of imagery</srccurr>
+        </srctime>
+        <srccitea>NAIP1</srccitea>
+        <srccontr>
+imagery used for verification of mining
+areas and water bodies in mining areas
+</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>State of Indiana</origin>
+            <pubdate>2005</pubdate>
+            <title>Digital Elevation Model (DEM)</title>
+            <geoform>raster digital data</geoform>
+            <pubinfo>
+              <pubplace>Indianapolis, IN</pubplace>
+              <publish>Indiana Geographic Information Council, Inc.</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>DVD</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2005</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>date of DEM</srccurr>
+        </srctime>
+        <srccitea>SOI2</srccitea>
+        <srccontr>DEM used for soil line adjustment</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service
+</origin>
+            <pubdate>unpublished material</pubdate>
+            <title>Contour Lines</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>shapefile</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2007</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>date of creation</srccurr>
+        </srctime>
+        <srccitea>NRCS10</srccitea>
+        <srccontr>reference for soil line adjustment</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service
+</origin>
+            <pubdate>1998</pubdate>
+            <title>
+Soils Survey Geographic (SSURGO) database for
+Tippecanoe County, Indiana
+</title>
+            <geoform>map</geoform>
+            <pubinfo>
+              <pubplace>Ft. Worth, Texas</pubplace>
+              <publish>
+U.S. Department of Agriculture, Natural
+Resources Conservation Service
+</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2008</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>download date</srccurr>
+        </srctime>
+        <srccitea>NRCS11</srccitea>
+        <srccontr>certified SSURGO product used for edge matching</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service
+</origin>
+            <pubdate>2004 - 2008</pubdate>
+            <title>
+Soil Survey Geographic (SSURGO) databases
+for adjacent surveys
+</title>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Fort Collins, Colorado</pubplace>
+              <publish>
+U.S. Department of Agriculture,
+Natural Resources Conservation Service,
+Information Technology Center
+</publish>
+            </pubinfo>
+            <othercit>
+These SSURGO certified soil surveys are adjacent to
+the Soil Survey of (IN157) Tippecanoe County, Indiana:
+IN007  Benton County, Indiana
+IN015  Carroll County, Indiana
+IN023  Clinton County, Indiana
+IN045  Fountain County, Indiana
+IN107  Montgomery County, Indiana
+IN171  Warren County, Indiana
+IN181  White County, Indiana
+</othercit>
+          </citeinfo>
+        </srccite>
+        <typesrc>online</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2004</begdate>
+              <enddate>2008</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>dates of publication</srccurr>
+        </srctime>
+        <srccitea>NRCS12</srccitea>
+        <srccontr>certified SSURGO product used for edge matching</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service
+</origin>
+            <pubdate>unpublished material</pubdate>
+            <title>region 11 soils geodatabase</title>
+            <geoform>file geodatabase</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>vector digital data</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2006</begdate>
+              <enddate>2018</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>SSURGO publication date</srccurr>
+        </srctime>
+        <srccitea>NRCS13</srccitea>
+        <srccontr>Source of digital revision - recreated yearly</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>
+Tippecanoe County had a previously published soil survey, 1998, at a
+scale of 1:15840. An evaluation of the 1998 Soil Survey determined
+that the soil map unit delineations and map unit components were
+accurate enough to recompile and digitize.
+</procdesc>
+        <srcused>NRCS1</srcused>
+        <procdate>1997</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The ratio film positives were created from the final publication
+negatives at a scale of 1:12000. The ratio film positives were
+manually compiled to a series of 5 mil mylar overlays pin registered
+to 3.75 minute orthophotographic quadrangle base maps. Compilation and
+quality assurance were performed by soil scientists and cartographic
+technicians under the supervision of soil scientists. The soil map
+unit delineation overlays were raster scanned at the NRCS state
+office in Indianapolis using a Scangraphics 1000 scanner and
+ScanServ software, Version 3.4.4. The scanning resolution was at
+least 0.01 inch and the four corners on each quarter quadrangle
+were used for registration during data collection. The processing,
+raster editing, vector conversion, labeling, edge matching and
+error corrections were done in LT4X, Version 4.02. The data were
+exported to GRASS, Version 4.13, for DLG export. Special soil
+features were manually digitized within 0.01 inch in GRASS. All data
+were written to a Digital Line Graph optional format with the v.out.dlg
+command. Digitizing and quality control were performed by the
+cartographic technicians at the Natural Resources Conservation Service
+(NRCS) Indianapolis Major Land Resource Area (MLRA) Project Office
+located at Indianapolis, Indiana. The digital data were also reviewed
+by the National Cartography and Geospatial Center of the Natural
+Resources Conservation Service for adherence to SSURGO standards.
+</procdesc>
+        <srcused>NRCS2, NRCS3, NRCS4, USGS1</srcused>
+        <procdate>1997</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Map Unit Interpretations Record (MUIR) database was developed by
+the Natural Resources Conservation Service soil scientists according
+to national standards.
+</procdesc>
+        <srcused>NRCS1</srcused>
+        <procdate>1997</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The tabular data for this survey area have been
+revised.
+</procdesc>
+        <srcused>NRCS1</srcused>
+        <procdate>1999</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The SSURGO data for Tippecanoe County has been modified by Indiana
+NRCS. The soil survey area boundary was adjusted to match the
+Indiana county boundary coverage in ArcGIS 8.3. The soils and
+special features (point and linear) were ftped to the Michigan
+Digitizing Unit (MIDU).
+</procdesc>
+        <srcused>NRCS6, NRCS7</srcused>
+        <procdate>2004</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The National Soil Information System (NASIS) database was developed
+by NRCS soil scientists according to national standards. The soil
+scientists used the map unit acreages from the digital soil survey as
+a guide to populate the NASIS database.
+</procdesc>
+        <srcused>NRCS8</srcused>
+        <procdate>2004</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The soil survey coverages were processed using the May 2004 SSURGO
+Re-certification AML programs for seamless projects. These ARC/INFO
+programs identified areas within the coverages that needed revision.
+The data were edited.  The Indiana NRCS soil scientists supplied the
+SSURGO download from NASIS. The minor codes in the soils coverages
+were replaced with the map unit key codes to link the map units in
+the spatial data to the NASIS database. Upon successful completion
+of the SSURGO Evaluation, the area symbol was added to each feature
+in the soil survey coverages with the att_check.aml program. The
+county coverages and the metadata were electronically transferred to
+the NRCS Staging Server to be joined with the tabular data.
+</procdesc>
+        <srcused>NRCS6, NRCS8</srcused>
+        <procdate>2005</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The previously certified digital data were
+modified. The Tippecanoe County Soil Survey spatial data was
+edge matched, with an acceptable join, to the adjacent SSURGO
+certified Indiana soil surveys of Benton, White, Carroll,
+Clinton, Montgomery, Fountain, and Warren Counties.  A file
+geodatabase was developed and utilized to document soil line
+adjustments and edge matching changes using ArcGIS 9.2 by a
+soil scientist at the Indianapolis MLRA Soil Survey Project
+Office located in Indianapolis, Indiana.  All adjustments were
+determined by field observation, editing soils with different
+drainage patterns that were evident to the adjoining counties,
+and editing some water polygons and special feature points on
+the orthophotographic base map.  Any mismatch map unit symbols
+have been documented in a problem copy file geodatabase. A 10%
+quality assurance review was done at the NRCS MLRA Region 11
+Office in Indianapolis, Indiana.
+</procdesc>
+        <srcused>NRCS1, NRCS9, NRCS10, NRCS11, NRCS12, NAIP1, SOI1, SOI2</srcused>
+        <procdate>2009</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The data were sent to the Wisconsin Digitizing Unit in
+Madison, Wisconsin.  The data were processed in ARCGIS 9.2 using a topology
+object with a 0.1 meter cluster tolerance for the purpose of eliminating
+gaps and overlaps along the shared boundaries of Warren County, Montgomery
+County, Clinton County, and Fountain County, Indiana.
+Additional edits were made to resolve any gaps or overlaps that exceeded
+the 0.1 meter cluster tolerance.  In ARC/INFO, the Tippecanoe County data
+were generalized with a tolerance of one meter to reduce vertex density for
+the purpose of reducing the overall database size.  During this process
+measures were taken to insure the line quality was not degraded.  The data
+were checked with the SSURGO Evaluation AMLs provided by U.S. Department of
+Agriculture, Natural Resources Conservation Service, National Cartography
+and Geospatial Center for accuracy and completeness.  Once the data was
+successfully evaluated by the AMLs, it was submitted to the Soil Data Mart
+for archival and distribution.
+</procdesc>
+        <srcused>NRCS11</srcused>
+        <procdate>20100322</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The spatial data for Tippecanoe County, Indiana soil survey area were
+downloaded from the Soil Data Mart on October 15, 2012.  The individual
+shapefiles were appended into a geodatabase for region 11.  The data were
+processed in ARCGIS 10.1 using a topology object with a 0.1 meter
+cluster tolerance for the purpose of eliminating gaps and overlaps
+within the region 11 soils geodatabase.  Individual soil survey area data
+were exported as shapefiles from the regional geodatabase.  A datum
+transformation from NAD83 to WGS84 using the NAD_1983_To_WGS_1984_1
+datum transformation method was applied to the data.  The data were
+checked with the SSURGO Evaluation scripts provided by U.S. Department of
+Agriculture, Natural Resources Conservation Service. The shapefiles were
+uploaded to the soil data warehouse for archival and distribution.
+</procdesc>
+        <srcused>NRCS13</srcused>
+        <procdate>2013</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The State of Indiana added new interpretations to the Export package.
+These are Interps for Indiana's Nitrate Leaching Index
+and for Indiana's Version of Slippage.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20131217</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+All components had the calculations run on the data to calculate, T,
+Kw, Kf, HSG, WEG/WEI, Concrete and Steel Corrosion per NB 430-14-13.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20140915</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The State of Indiana has added an Interpretation for septic systems
+based on ISDH rules.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20150911</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The State of Indiana has added three new Interpretations in addition to
+the ISDH Septic Interpretation.  These new interpretations are for Soil
+Slippage based on Indiana guidelines, cropland and Pasture land
+limitations based on Indiana Guidelaines.  The ISDH Septic rule
+has also been posted to WSS as a report.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20160919</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The State of Indiana has added four new Interpretations in addition to
+the ISDH Septic Interpretation.  These new interpretations are for Soil
+Slippage based on Indiana guidelines, Cropland limitations and Pasture
+land limitations based on Indiana guidelines and Indiana Corn Yield
+Interpretations.  The ISDH Septic rule has also been posted to WSS
+as a report.
+National has added four new interpretations:
+Farm and Garden Composting Facility - Surface"; Fragile Soil Index;
+NCCPI - National Commodity Crop Productivity Index (Ver 3.0);
+Soil Susceptibility to Compaction.
+Indiana has added 6 regional interpretations:
+Deep Infiltration Systems; Shallow Infiltration Systems;
+Lined Retention Systems; Unlined Retention Systems;
+Ground-based Solar Arrays, Ballast Anchor Systems;
+Ground-based Solar Arrays, Soil-penetrating Anchor Systems.
+The Nitrate Leaching Index climate data has been updated
+from the 1970 to 2000 data to 1980 to 2010 data.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20170926</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The State of Indiana has added four new Interpretations in addition to
+the ISDH Septic Interpretation.  These new interpretations are for Soil
+Slippage based on Indiana guidelines, Cropland limitations and Pasture
+land limitations based on Indiana guidelines and Indiana Corn Yield
+Interpretations.  The ISDH Septic rule has also been posted to WSS
+as a report.
+National has added four new interpretations:
+Farm and Garden Composting Facility - Surface; Fragile Soil Index;
+NCCPI - National Commodity Crop Productivity Index (Ver 3.0);
+Soil Susceptibility to Compaction".
+Indiana has added 6 regional interpretations:
+Deep Infiltration Systems; Shallow Infiltration Systems;
+Lined Retention Systems; Unlined Retention Systems;
+Ground-based Solar Arrays, Ballast Anchor Systems;
+Ground-based Solar Arrays, Soil-penetrating Anchor Systems"
+The Nitrate Leaching Index climate data has been updated
+from the 1970 to 2000 data to 1980 to 2010 data.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20180907</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The spatial data for the entire SSURGO database was recertified in October
+of 2019 to reduce storage requirements and to improve map display
+and geoprocessing performance.  The SSURGO data is internally managed
+using 12 Regional Transactional Spatial Databases (RTSD) that are in
+an ESRI File Geodatabase format.  The spatial extent of the RTSDs follow the
+Soil and Plant Science Division (SPSD) regional administrative boundaries.
+The XY coordinate system of this RTSD is USA Contiguous Albers Equal Area
+Conic USGS Version WKID: 102039 and has an XY storage precision of 0.001
+meters.  The RTSDs were recreated using a reduced storage precision of 0.1
+meters to reduce the physical size of the data.  The SSURGO data was also
+generalized by removing excess vertices, using a tolerance of 1 meter.
+The topology was validated at the CONUS level using a tolerance of 0.2
+meters.  This effort directly affects the gSSURGO and gNATSGO product since
+these deliverables are in a File Geodatabase format.
+</procdesc>
+        <srcused>NRCS13</srcused>
+        <procdate>2019</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Natural Resources Conservation Service State Soil Scientist or
+delegate, upon completion of data quality verification, determined
+that the tabular data should be released for official use. A
+selected set of map units and components in the soil survey legend was
+copied to a staging database, and rating values for selected
+interpretations were generated. The list of selected interpretations is
+stored in the database table named sainterp.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20190913</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Natural Resources Conservation Service State Soil Scientist or
+delegate verified that the labels on the digitized soil map units
+link to map units in the tabular database, and certified the joined
+data sets for release to the Soil Data Warehouse. A system assigned
+version number and date stamp were added and the data were copied to
+the data warehouse. The tabular data for the map units and components
+were extracted from the data warehouse and reformatted into the soil
+data delivery data model, then stored in the Soil Data Mart. The spatial
+data were copied to the Soil Data Mart without change.
+The State of Indiana has added no new Interpretations.  National has added one new interpretation.  It is "FOR - Windthrow Hazard".  National has substantially revised four interpretations.   These are "FOR  Mechanical Planting Suitability", "FOR  Mechanical Site Preparation (Deep)", "FOR  Mechanical Site Preparation (Surface)" and "FOR  Potential Erosion Hazard (Off-Road/Off-Trail)".  The following map units were updated for Fiscal Year 2019.  The OgA2t4ld-Ockley silt loam, 0 to 2 percent slopes" mapunit spatial data was edited to improve the quality of joins between soil survey areas for soil delineations and attributes. as a result of the SPATIAL - MLRA 111A - Indianapolis Urban Update - Phase 1 project.  The MtD32w3qq-Miami clay loam, 12 to 18 percent slopes, severely eroded" mapunit spatial data was edited to improve the quality of joins between soil survey areas for soil delineations and attributes. as a result of the SPATIAL - MLRA 111A - Indianapolis Urban Update - Phase 1 project.  The CwB22thyc-Crosby-Miami silt loams, 2 to 4 percent slopes, eroded" mapunit spatial data was edited to improve the quality of joins between soil survey areas for soil delineations and attributes. as a result of the SPATIAL - MLRA 111A - Indianapolis Urban Update - Phase 1 project.  The CtA2thy4-Crosby silt loam, fine-loamy subsoil, 0 to 2 percent slopes" mapunit spatial data was edited to improve the quality of joins between soil survey areas for soil delineations and attributes. as a result of the SPATIAL - MLRA 111A - Indianapolis Urban Update - Phase 1 project.  The MsC22rkb5-Miami silt loam, 6 to 12 percent slopes, eroded" mapunit spatial data was edited to improve the quality of joins between soil survey areas for soil delineations and attributes. as a result of the SPATIAL - MLRA 111A - Indianapolis Urban Update - Phase 1 project.  The MtC32rk9y-Miami clay loam, 6 to 12 percent slopes, severely eroded" mapunit spatial data was edited to improve the quality of joins between soil survey areas for soil delineations and attributes. as a result of the SPATIAL - MLRA 111A - Indianapolis Urban Update - Phase 1 project.  The tabular database was edited and populated according to guidance in Exhibits A and B of National Instruction (NI-305), and Part 610 of the National Soil Survey Handbook. Any spatial data edits were certified correct by the Soil Survey region, State Soil Scientist (SSS), and by the National Digitizing Center. The SSS certified the data population for all map units, and concurred with correlation of all projects mentioned, as they were documented in Soil Survey Area Legend(s) and in the Project Correlation table.The State of Indiana has added all minor components to the export.  This has cause a condition where some minors are completely populated, some are partially populated and others are populated only at the component level as placeholders and to help populate the hydric soils lists.  These latter components do not have any horizon data associated with them.  There is no good way to separate the fully from the partially populated.  Based on this the minor components for all units will be listed as "Not Certified" unless all minor components in the county are fully populated. All spatial data was processed and refreshed to reduce geometry size and coordinate precision of SSURGO, and to standardize the vertice density of our surveys. It is estimated that this reduced the geometry size of SSURGO to around 10 GB. This is an over 50% reduction in size, and will therefore greatly optimize our data for future usage and efficiency in publishing and interacting with it, at all levels.</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20190913</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Natural Resources Conservation Service State Soil Scientist or
+delegate, upon completion of data quality verification, determined
+that the tabular data should be released for official use. A
+selected set of map units and components in the soil survey legend was
+copied to a staging database, and rating values for selected
+interpretations were generated. The list of selected interpretations is
+stored in the database table named sainterp.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20200611</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Natural Resources Conservation Service State Soil Scientist or
+delegate verified that the labels on the digitized soil map units
+link to map units in the tabular database, and certified the joined
+data sets for release to the Soil Data Warehouse. A system assigned
+version number and date stamp were added and the data were copied to
+the data warehouse. The tabular data for the map units and components
+were extracted from the data warehouse and reformatted into the soil
+data delivery data model, then stored in the Soil Data Mart. The spatial
+data were copied to the Soil Data Mart without change.  The State of Indiana has added one new Interpretations in 2020.  It is "DHS - Emergency Land Disposal of Milk".  National has added one new interpretation. It is "DHS - Emergency Animal Mortality Disposal by Shallow Burial".   The following map units were updated for Fiscal Year 2020.  No new map units were added to this county.The State of Indiana has added all minor components to the export.  This has cause a condition where some minors are completely populated, some are partially populated and others are populated only at the component level as placeholders and to help populate the hydric soils lists.  These latter components do not have any horizon data associated with them.  There is no good way to separate the fully from the partially populated.  Based on this the minor components for all units will be listed as "Not Certified" unless all minor components in the county are fully populated. 
+
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20200611</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Natural Resources Conservation Service State Soil Scientist or
+delegate, upon completion of data quality verification, determined
+that the tabular data should be released for official use. A
+selected set of map units and components in the soil survey legend was
+copied to a staging database, and rating values for selected
+interpretations were generated. The list of selected interpretations is
+stored in the database table named sainterp.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20210909</procdate>
+      </procstep>
+      <procstep>
+        <procdesc> The Natural Resources Conservation Service State Soil Scientist or delegate verified that the labels on the digitized soil map units link to map units in the tabular database, and certified the joined data sets for release to the Soil Data Warehouse. A system assigned version number and date stamp were added and the data were copied to the data warehouse. The tabular data for the map units and components were extracted from the data warehouse and reformatted into the soil data delivery data model, then stored in the Soil Data Mart. The spatial data were copied to the Soil Data Mart without change. 
+The State of Indiana has added No new Interpretations in 2021.   National has added four new interpretations. They are "AGR - Industrial Hemp for Fiber and Seed Production", "FOR - Drought Vulnerable Soils", "SOH - Limitations for Aerobic Soil Organisms" and "SOH - dynamic Soil Properties Response to Biochar".  Many soil interpretations that were optional were made mandatory but Indiana was already uploading them so there will be no change there.  The following map units were updated for Fiscal Year 2021.  No map units were updated in this county. The State of Indiana has added all minor components to the export.  This has cause a condition where some minors are completely populated, some are partially populated and others are populated only at the component level as placeholders and to help populate the hydric soils lists.  These latter components do not have any horizon data associated with them.  There is no good way to separate the fully from the partially populated.  Based on this the minor components for all units will be listed as "Not Certified" unless all minor components in the county are fully populated. </procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20210909</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Natural Resources Conservation Service State Soil Scientist or
+delegate, upon completion of data quality verification, determined
+that the tabular data should be released for official use. A
+selected set of map units and components in the soil survey legend was
+copied to a staging database, and rating values for selected
+interpretations were generated. The list of selected interpretations is
+stored in the database table named sainterp.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20220902</procdate>
+      </procstep>
+      <procstep>
+        <procdesc>
+The Natural Resources Conservation Service State Soil Scientist or
+delegate verified that the labels on the digitized soil map units
+link to map units in the tabular database, and certified the joined
+data sets for release to the Soil Data Warehouse. A system assigned
+version number and date stamp were added and the data were copied to
+the data warehouse. The tabular data for the map units and components
+were extracted from the data warehouse and reformatted into the soil
+data delivery data model, then stored in the Soil Data Mart. The spatial
+data were copied to the Soil Data Mart without change.
+</procdesc>
+        <srcused>NASIS</srcused>
+        <procdate>20220902</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>0.000001</latres>
+        <longres>0.0000001</longres>
+        <geogunit>decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>World Geodetic System 1984</horizdn>
+        <ellips>World Geodetic System 1984</ellips>
+        <semiaxis>6378137.00000</semiaxis>
+        <denflat>298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Special Soil Features</enttypl>
+        <enttypd>
+Special Soil Features represent soil, miscellaneous area, or landform
+features that are too small to be digitized as soil delineations
+(area features).
+</enttypd>
+        <enttypds>Agricultural Handbook 18, Soil Survey Manual, 1993, USDA, SCS.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>Special Soil Features Codes</attrlabl>
+        <attrdef>
+Special Soil Features labels represent specific Special Soil
+Features. These features are identified with a descriptive
+label. The label is assigned to the point or line assigned
+to represent the feature on maps.
+</attrdef>
+        <attrdefs>
+Agricultural Handbook 18, Soil Survey Manual, 1993, USDA, SCS;
+National Soil Survey Handbook, Title 430-VI, part 647
+(current issue), USDA, NRCS.
+</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>
+Classification and Correlation of the Soils of Tippecanoe County,
+Indiana
+</codesetn>
+            <codesets>
+U.S. Department of Agriculture, Natural Resources
+Conservation Service
+</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>
+Map Unit Delineations are closed polygons that may be dominated
+by a single soil or miscellaneous area component plus allowable
+similar or dissimilar soils, or they can be geographic mixtures
+of groups of soils or soils and miscellaneous areas.
+
+The map unit symbol uniquely identifies each closed map unit
+delineation. Each symbol corresponds to a map unit name. The
+map unit key is used to link to information in the National
+Soil Information System tables.
+
+Map Unit Delineations are described by the National Soil
+Information System database. This attribute database gives the
+proportionate extent of the component soils and the properties for
+each soil. The database contains both estimated and measured data
+on the physical and chemical soil properties and soil
+interpretations for engineering, water management, recreation,
+agronomic, woodland, range, and wildlife uses of the soil.
+
+The National Soil Information System database contains static
+metadata. It documents the data structure and includes such
+information as what tables, columns, indexes, and relationships
+are defined as well as a variety of attributes of each of these
+database objects. Attributes include table and column
+descriptions and detailed domain information.
+
+The National Soil Information System database also contains a
+distribution metadata. It records the criteria used for selecting
+map units and components for inclusion in the set of distributed
+data.
+
+Special features are described in the feature table.  It includes an
+area symbol, feature label, feature name, and feature description for
+each special and ad hoc feature in the survey area.
+</eaover>
+      <eadetcit>
+Soil Taxonomy: A basic system of soil classification for making and
+interpreting soil surveys. Agricultural Handbook 436, 1999, USDA, SCS.
+
+Keys to Soil Taxonomy (current issue), USDA, SCS.
+
+National Soil Survey Handbook, Title 430-VI, part 647 (current
+issue), USDA, NRCS.
+
+Agricultural Handbook 18, Soil Survey Manual, 1993, USDA, SCS.
+</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>
+U.S. Department of Agriculture, Natural
+Resources Conservation Service, National
+Geospatial Center of Excellence
+</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>501 West Felix Street, Building 23</address>
+          <city>Fort Worth</city>
+          <state>Texas</state>
+          <postal>76115</postal>
+        </cntaddr>
+        <cntvoice>800 672 5559</cntvoice>
+        <cnttdd>202 720 2600</cnttdd>
+        <cntfax>817 509 3469</cntfax>
+      </cntinfo>
+    </distrib>
+    <resdesc>Tippecanoe County, Indiana SSURGO</resdesc>
+    <distliab>
+Although these data have been processed successfully on a computer
+system at the U.S. Department of Agriculture, no warranty expressed
+or implied is made by the Agency regarding the utility of the data
+on any other system, nor shall the act of distribution constitute
+any such warranty. The U.S. Department of Agriculture will warrant
+the delivery of this product in computer readable format, and will
+offer appropriate adjustment of credit when the product is determined
+unreadable by correctly adjusted computer input peripherals, or
+when the physical medium is delivered in damaged condition. Request
+for adjustment of credit must be made within 90 days from the date
+of this shipment from the ordering site.
+
+The U.S. Department of Agriculture, nor any of its agencies are
+liable for misuse of the data, for damage, for transmission of
+viruses, or for computer contamination through the distribution of
+these data sets. The U.S. Department of Agriculture (USDA) prohibits
+discrimination in all its programs and activities on the basis of race,
+color, national origin, sex, religion, age, disability, political
+beliefs, sexual orientation, or marital or family status. (Not all
+prohibited bases apply to all programs.)
+</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>ESRI shapefile</formname>
+          <formcont>spatial</formcont>
+          <transize>31.9</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>URL:http://DataGateway.nrcs.usda.gov/</networkr>
+              </networka>
+            </computer>
+            <accinstr>
+Select desired survey area at above Internet
+Web site. An email address is required for receipt of
+instructions on retrieval via anonymous FTP. Anticipate a
+delay between submission of request at Web site and receipt of
+email message.
+</accinstr>
+          </onlinopt>
+        </digtopt>
+      </digform>
+      <fees>
+There is currently no direct charge for requesting data or for
+retrieval via FTP.
+</fees>
+      <ordering>
+Visit the above mentioned Internet Web Site, select state or
+territory, then select individual soil survey area of interest.
+Spatial line data and locations of special feature symbols are in
+ESRI ArcGIS shapefile, format. The National Soil Information
+System attribute soil data are available in variable length, pipe
+delimited, ASCII file format.
+</ordering>
+      <turnarnd>Typically within four hours</turnarnd>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20230621</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>U.S. Department of Agriculture, Natural Resources Conservation Service</cntorg>
+        </cntorgp>
+        <cntpos>State Soil Scientist</cntpos>
+        <cntaddr>
+          <addrtype>mailing address</addrtype>
+          <address>USDA - Natural Resources Conservation Service</address>
+          <address>Indiana State Office</address>
+          <address>6013 Lakeside Blvd.</address>
+          <city>Indianapolis</city>
+          <state>IN</state>
+          <postal>46278-2933</postal>
+        </cntaddr>
+        <cntvoice>317-295-5875</cntvoice>
+        <cnttdd>800-877-8339</cnttdd>
+        <cntfax>855-458-8767</cntfax>
+        <cntemail>rick.neilson@usda.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+  </metainfo>
+</metadata>
