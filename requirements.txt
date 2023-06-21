@@ -1,0 +1,7 @@
+Pandas
+Matplotlib
+NumPy
+geodatasets
+shapely
+contextily
+geopandas
