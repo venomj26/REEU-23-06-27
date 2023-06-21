@@ -5,3 +5,5 @@ geodatasets
 shapely
 contextily
 geopandas
+folium
+mapclassify
