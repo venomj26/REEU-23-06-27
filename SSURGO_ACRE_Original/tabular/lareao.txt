@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"5"|"Climate Factor"|321977|"11498"|"514661"
+"County or Parish"|"IN157"|"Tippecanoe"|321977|"11498"|"514662"
+"MLRA"|"111"|"Indiana and Ohio Till Plain"||"11498"|"514663"
+"Rainfall Factor Area (USLE)"|"155"|"Rainfall Factor"|321977|"11498"|"514664"
+"State or Territory"|"IN"|"Indiana"|321977|"11498"|"514665"
+"Indiana Annual Precipitation"|"38.19"|"Tippecanoe"|321977|"11498"|"514666"
+"Indiana Winter Precipitation"|"15.13"|"Tippecanoe"|321977|"11498"|"514667"
