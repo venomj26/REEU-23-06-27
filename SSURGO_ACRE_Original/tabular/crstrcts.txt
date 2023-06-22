@@ -1,8 +1,0 @@
-"Densic material"|"noncoherent"|61|91|102|||||||"22552793"|"6325367"
-"Densic material"|"noncoherent"|102|152|193|||||||"22552794"|"6325369"
-"Densic material"|"noncoherent"|61|91|102|||||||"22552795"|"6325368"
-"Densic material"|"noncoherent"|114|122|140|152|200|200|38|78|86|"22552834"|"6325360"
-"Densic material"|"noncoherent"|80|91|120|200|200|200|80|109|120|"22552835"|"6325373"
-"Densic material"|"noncoherent"|61|91|102|200|200|200|98|109|139|"22552836"|"6325374"
-"Densic material"|"noncoherent"|127|170|178|||||||"22552871"|"6325338"
-"Densic material"||102|137|152|||||||"22552930"|"6325344"
