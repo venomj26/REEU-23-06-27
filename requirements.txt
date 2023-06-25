@@ -8,5 +8,4 @@ geopandas
 folium
 mapclassify
 rasterio
-rxr
 rioxarray
